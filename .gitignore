@@ -1,0 +1,8 @@
+*/Debug/*
+Debug/*
+*.vcxproj*
+*.sln
+*.ipch
+*.db
+*.suo
+*.sqlite
